@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @f-saladbar
 - 👀 I’m interested in random projects, ocassionally related to financial markets.
-- 🌱 I’m currently learning C++ to work on some Arduino projects. 
+- 🌱 I’m currently learning C++ to work on Arduino hobby projects. 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
